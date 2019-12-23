@@ -1,9 +1,32 @@
 {
   "name": "pvp-midisync",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "dependencies": {
     "csvtojson": "^2.0.10",
     "midi": "^1.0.0",
     "pvp-control": "0.0.1"
-  }
+  },
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/emptygalaxy/pvp-midisync.git"
+  },
+  "keywords": [
+    "pvp",
+    "ProVideoPlayer",
+    "control",
+    "midi",
+    "sync"
+  ],
+  "author": "Nick Timman",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/emptygalaxy/pvp-midisync/issues"
+  },
+  "homepage": "https://github.com/emptygalaxy/pvp-midisync#readme",
+  "description": ""
 }
