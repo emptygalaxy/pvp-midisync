@@ -1,8 +1,8 @@
 const midi = require('midi');
 const csv = require('csvtojson');
 const fs = require('fs');
-const pvpControl = require('../pvp-control/');
-const playlist = require('../pvp-playlist/');
+const pvpControl = require('pvp-control');
+const playlist = require('pvp-playlist');
 const RVPVPDocument = playlist.RVPVPDocument;
 const RVPVPPlaylist = playlist.RVPVPPlaylist;
 

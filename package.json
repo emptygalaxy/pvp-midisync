@@ -1,6 +1,6 @@
 {
   "name": "pvp-midisync",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "dependencies": {
     "csvtojson": "^2.0.10",
     "midi": "^1.0.0",
